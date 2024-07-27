@@ -1,0 +1,26 @@
+body{
+    background-color: #f0f0f0;
+}
+.card{
+    width: 50%;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 350px;
+    background-color: #f0f0f0;
+    border-radius: 6px;
+
+  
+}
+.container{
+    text-align: center;
+    background-color: #d9bcb4;
+    
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 70px;
+}
